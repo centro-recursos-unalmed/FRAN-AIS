@@ -1,0 +1,237 @@
+LISEZ-MOI
+
+To access help and the dictionnary in English, click on "statistiques" in the
+bottom navigation bar, then on "langue de référence" and choose "anglais".
+
+Para ir a la ayuda y al diccionario, vaya a "statistiques" abajo, en la barra
+de navegaciòn y luego vaya a "langue de référence" y escoja "espagnol".
+
+Per accedere all'aiuto e al dizionario in inglese, cliccare su "statistiques"
+sulla barra di navigazione inferiore, quindi cliccare su "langue de 
+référence" e scegliere "italien".
+
+Um Zugang zum Deutsch-Wörterbuch zu bekommen, klicken Sie zunächst auf das 
+Menü "statistiques" in der unteren Leiste, klicken Sie dann auf "langue de
+référence" und wählen Sie aus : "allemand".
+
+
+Contenu du fichier Lisez-moi :
+
+- Configuration minimum
+- Installation de "REFLETS"
+- Installation de Quick Time 4.1
+- Lancement du CD-Rom "REFLETS" 
+- Désinstallation de "REFLETS"
+- Paramètres de sauvegarde des profils élèves
+- Téléchargement de nouveaux exercices
+- Import / Export des profils élèves
+- Problèmes rencontrés
+- Assistance
+
+
+1. Configuration minimum
+
+1.1. Sur PC:
+Processeur Pentium 200 MHz
+Windows 95,98,2000,NT 4.0 ou ultérieur
+32 Mo de RAM (64 Mo recommandés)
+Affichage 640 x 480, 65 000 couleurs
+Lecteur de CD-ROM 4X
+Carte son Compatible Sound Blaster
+Microphone
+
+1.2. Sur Mac:
+Power PC 150 MHz
+Système MAC OS 8.1 ou ultérieur
+32 Mo de RAM (64 Mo recommandés)
+Affichage 640 x 480, 65 000 couleurs
+Microphone
+
+
+2- Installation du CD-Rom "REFLETS"
+
+2.1. Sur PC:
+- Démarrez votre ordinateur.
+- Placez le CD-Rom dans votre lecteur, une fenêtre d'installation s'ouvre 
+automatiquement.
+- Pour installer le CD-Rom, cliquez sur "Suite" et suivez les instructions 
+des fenêtres de dialogue.
+
+Si la fenêtre d'installation ne s'ouvre pas automatiquement:
+
+- Double-cliquez sur le "poste de travail",
+- Double-cliquez sur l’icône du CD-ROM (nommé "REFLETS"),
+- Double-cliquez sur "Installer Reflets" et "Installer".
+
+2.2. Sur Mac:
+- Désactivez la mémoire virtuelle ;
+- Quittez les autres applications éventuellement ouvertes ;
+- Désactivez les extensions inutiles ;
+- Insérez le CD-ROM dans votre lecteur ;
+- Double-cliquez sur l’icône du CD-Rom (nommé "REFLETS"), puis sur l’icône 
+"Installation".
+
+
+3. Installation de Quick Time 4.1
+
+Pour profiter de toutes les fonctionnalités  de votre CD-ROM "REFLETS", vous 
+devez installer la version 4.1 de Quick Time si ce n’est pas celle-ci qui est
+présente sur votre machine.
+Attention, si vous êtes sur un système autre que le système français et que 
+vous désirez installer la version française de Quick Time, vous devez 
+désinstaller votre ancienne version de Quick Time afin d'éviter les conflits 
+de logiciels. Néanmoins, le programme fonctionne parfaitement avec la version
+anglophone de Quick Time 4.1.
+
+3.1. Sur PC:
+- Double-cliquez sur le "poste de travail",
+- Double-cliquez sur l’icône du CD-ROM (nommé "REFLETS"),
+- Double-cliquez sur le dossier "Qt4.1" puis sur le fichier 
+"QuickTimeInstaller.exe".
+- Cliquez sur "Suite" et suivez les instructions des boîtes de dialogue.
+
+3.2. Sur Mac:
+- Double-cliquez sur l’icône du CD-ROM (nommé "REFLETS"),
+- Double-cliquez sur le dossier "Installation de QuickTime" puis sur le 
+fichier "QuickTimeInstaller".
+- Cliquez sur "Suite" et suivez les instructions des boîtes de dialogue.
+
+
+4. Lancement du CD-Rom "REFLETS"
+
+4.1. Sur PC:
+- Pour lancer le CD-Rom, cliquez sur l'icône de lancement "REFLETS" située 
+dans le Groupe de Programmes "REFLETS" (accessible depuis le menu "Démarrer").
+ou bien :
+- Cliquez sur l’icône "REFLETS" dans le "poste de travail" et lancez le 
+programme.
+
+4.2. Sur Mac:
+
+- Ouvrez le dossier "REFLETS" présent sur votre disque dur et cliquez sur 
+l’icône "REFLETS".
+
+
+5. Désinstallation du CD-Rom "REFLETS"
+
+5.1. Sur PC:
+- Dans le menu " Démarrer " sélectionner le Groupe "Reflets".
+- Sélectionnez l'icône " Désinstaller!".
+- Suivez les instructions des boîtes de dialogues. 
+
+5.2. Sur Mac:
+- Cliquez et glissez le dossier "REFLETS" de votre disque dur jusqu’à 
+l’icône de la corbeille.
+
+
+6. Paramètres de sauvegarde des profils élèves
+Ce paramétrage s'effectue dans la zone professeur (consultez le livret du 
+CD-ROM pour plus d'informations). 
+ATTENTION ! Vous devez effectuer cette opération initiale sur tous les postes.
+
+Le choix par défaut du programme est la sauvegarde  des profils élèves sur 
+disque dur. 
+C’est la configuration idéale si vous ne disposez que d’un poste de 
+consultation. 
+Elle enregistre directement les profils des élèves sur votre disque dur. 
+En revanche, si vous possédez plusieurs postes de consultation, sélectionnez 
+une des deux options suivantes :
+
+- Vous avez un réseau local reliant tous les postes. 
+Choisissez dans ce cas "sauvegarde par réseau " ; quelque soit le poste 
+utilisé, l’ensemble des profils élèves seront sauvegardés dans un même 
+dossier du réseau que vous sélectionnez comme suit : 
+
+1. Dans la zone professeur, sélectionnez "sauvegarde par réseau".
+2. Dans la fenêtre qui s'affiche, indiquez l'adresse du dossier qui 
+contiendra tous les profils. Pour cela, cliquez sur "parcourir".
+3. Une boîte de dialogue s'ouvre. Choisissez le dossier qui vous convient et 
+cliquez sur "enregistrer".
+
+Note : même si la boîte de dialogue ne semble afficher qu'un profil (par 
+exemple parcours.test.txt), l'ensemble des profils visibles dans la zone 
+professeur sera bien sauvegardée.
+
+4. Si, au cours des consultations suivantes, le dossier choisi n'est pas 
+accessible en réseau, le programme se remettra automatiquement en mode 
+"sauvegarde disque dur" et les scores ne seront pas actualisés dans le 
+dossier réseau. Les derniers scores effectués seront donc stockés sur le 
+disque dur de votre poste de consultation. 
+
+- Vous n'avez pas de réseau local
+Si vos élèves sont amenés à changer de poste, l'option "sauvegarde sur 
+disquette" leur permet d'enregistrer leurs scores personnels sur une 
+disquette afin de pouvoir reprendre la consultation sur un autre poste. 
+Pour cela, dans la zone professeur, cliquez sur "préférences de sauvegarde 
+sur disquette" puis cliquez sur "ok". 
+Avant chaque session d'utilisation, le programme demande à l'élève sa 
+disquette afin de charger son profil. Une boîte de dialogue s'ouvre, l'élève 
+selectionne son profil sur sa disquette et clique sur "ouvrir" pour charger 
+son profil. 
+A la fin de la session d'utilisation, le programme met à jour le score de 
+l'élève sur sa disquette. Une boîte de dialogue s'ouvre. L'élève selectionne 
+son profil et le met à jour en cliquant sur "enregistrer". 
+
+Note : si l'élève n'insère pas sa disquette au démarrage, le programme ne 
+peut pas effectuer la mise à jour de son score. Ses performances durant la 
+session ne seront pas enregistrées. 
+
+7. Téléchargement de nouveaux exercices
+
+Avec une connection internet, vous aurez la possibilité de télécharger des 
+exercices supplémentaires de type "activités".
+
+- Lancez votre CD-ROM "REFLETS".
+- Cliquez sur le bouton internet de la barre de navigation du bas.
+- Suivez les instructions à l’écran.
+
+8. Import / Export des profils élèves
+
+Les fonctions "importer" / "exporter" vous permettent d'effectuer des 
+sauvegardes supplémentaires pour des besoins d'archivage, etc...
+Attention l'importation des profils précédemment sauvegardés, écrasera 
+irrémédiablement les profils contenus dans la zone professeur. Prenez soin 
+de toujours noter où se trouvent vos fichiers les plus récents si vous 
+faites des importations.
+
+9. Problèmes rencontrés
+
+9.1. Fontes larges sous Windows 95 et 98
+- Le choix d’un affichage par défaut avec de grandes polices entraîne une 
+mauvaise lisibilité des sous-titres des vidéos.
+- Sous Windows 95 et 98, accédez aux paramètres d’affichage depuis le panneau
+de configuration et sélectionnez un modèle doté d’une taille de police 
+standard.
+
+ 9.2. Nom de fichiers de plus de 25 caractères
+- Afin d’éviter des problèmes de compatibilité, assurez-vous de limiter vos 
+noms de dossiers ou fichiers de sauvegarde à 25 caractères.
+
+ 9.3. Problèmes rencontrés lors des enregistrements sur le jeu du Karaoké
+- Vous risquez de rencontrer des problèmes d'enregistrement si vous possédez 
+une carte son de type DIAMOND MONSTER Sound MX300. De plus, sur des 
+configurations basses -Intel Pentium MMX200, Cyrix M2 300, Intel Pentium MMX 
+233-, les mêmes problèmes à l'enregistrement peuvent se produire. Prenez 
+contact avec votre fabricant pour mettre à jour les drivers de votre carte 
+son. 
+- Pour un fonctionnement correct du karaoké, il faut s'enregistrer 
+complètement, et attendre la fin de la séquence avant de s'écouter, puis 
+écouter toute la séquence. 
+
+9.4. Attention en particulier lors de la saisie des noms de profil et des 
+mots de passe, le programme ne prend pas en compte le pavé numérique.
+
+9.5. Assistance
+
+Si votre langue de référence est l'allemand, l'aide s'affiche en français.
+
+En cas de problème, contactez-nous à l’adresse suivante : 
+fle@hachette-livre.fr
+
+Vous pouvez aussi vous connecter à notre site pour toute information 
+supplémentaire. http://www.fle.hachette-livre.fr
+ Notez bien :  
+- les messages affichés au moment du problème ;
+- la configuration de votre ordinateur (processeur, mémoire, 
+lecteur CD-ROM, carte son, carte vidéo).
+
